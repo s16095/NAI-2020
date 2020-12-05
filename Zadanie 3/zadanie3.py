@@ -1,3 +1,7 @@
+# Zadanie 3 - sterownik poduszki powietrzznej w samochodzie
+# Autorzy:
+# Wojciech Iracki, Adrian Wojewoda
+
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
